@@ -2,7 +2,7 @@ PullScrollView
 ===========
 
 *注：本项目使用Android Studio开发*
-在https://github.com/MarkMjw/PullScrollView基础上修改
+在（https://github.com/MarkMjw/PullScrollView）基础上修改
 
 
 ## **本例包含ScrollView的两种实现：** ##
@@ -22,7 +22,7 @@ mScrollView.init(mHeadImg);
 ![Screenshot 0](https://github.com/xiaoxiaoying/PullScrollView/blob/master/Screenshots/pullscrollView.gif)
 
 
-
+[Download apk](https://github.com/xiaoxiaoying/NumberPicker/blob/master/samples/bin/SampleActivity.apk)
 License
 =======
 
