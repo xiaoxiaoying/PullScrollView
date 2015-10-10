@@ -24,7 +24,7 @@ mScrollView.init(mHeadImg);
 ![Screenshot 0](https://github.com/xiaoxiaoying/PullScrollView/blob/master/Screenshots/pullscrollView.gif)
 
 
-[Download apk](https://github.com/xiaoxiaoying/NumberPicker/blob/master/samples/bin/SampleActivity.apk)
+[Download apk](https://github.com/xiaoxiaoying/PullScrollView/blob/master/Screenshots/PullScrollView-debug.apk)
 License
 =======
 
