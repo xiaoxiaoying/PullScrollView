@@ -2,9 +2,9 @@ PullScrollView
 ===========
 
 *注：本项目使用Android Studio开发*
-在https://github.com/MarkMjw/PullScrollView
-=====
->基础上修改
+*在*https://github.com/MarkMjw/PullScrollView*基础上修改*
+
+
 
 
 ## **本例包含ScrollView的两种实现：** ##
